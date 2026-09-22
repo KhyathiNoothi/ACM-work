@@ -229,6 +229,3 @@ Possible extensions to this repository include:
 ---
 
 
----
-
-⭐ If you find this repository useful for learning ML fundamentals, consider starring the repository.
