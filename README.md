@@ -8,7 +8,7 @@ This repository was created as a practical learning space to understand how diff
 
 ## 📌 What's Inside
 
-The repository currently covers:
+The repository currently covers
 
 | Topic                     | Notebook              |
 | ------------------------- | --------------------- |
