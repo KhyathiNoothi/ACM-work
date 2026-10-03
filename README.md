@@ -215,7 +215,7 @@ The goal is not just to use ML libraries, but to understand the intuition and wo
 
 ---
 
-## 📂 Repository Structure
+## 📁 Repository Structure
 
 ```text
 ACM-work/
@@ -225,10 +225,16 @@ ACM-work/
 ├── kmeans.ipynb
 ├── decisiontrees.ipynb
 ├── RandomForest.ipynb
+├── RandomForest_Classifier.ipynb
 ├── Naivebayes.ipynb
+├── SVM_Classifier.ipynb
+├── XGBoost.ipynb
+├── ANN_Diabetes_Classifier.ipynb
+│
+├── diabetes_ann_model.keras
+├── scaler.pkl
 │
 └── README.md
-```
 
 ---
 
