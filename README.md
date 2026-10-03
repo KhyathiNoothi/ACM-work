@@ -108,6 +108,73 @@ Concepts include:
 * Conditional probability
 * Posterior probability
 * Probabilistic classification
+  ## Support Vector Machine
+
+The SVM notebook explores Support Vector Machine classification for separating data points into different classes.
+
+Key concepts include:
+
+- Support Vector Machines
+- Classification
+- Feature scaling
+- Decision boundaries
+- Kernels
+- Linear kernel
+- RBF kernel
+- Polynomial kernel
+- Hyperparameter tuning
+- GridSearchCV
+- Cross-validation
+- ROC-AUC
+- Confusion matrix
+- Precision, recall, and F1-score
+- ROC curve
+
+The notebook uses GridSearchCV to identify suitable hyperparameters and evaluates the tuned SVM using classification metrics and ROC-AUC.
+
+---
+
+## XGBoost
+
+The XGBoost notebook explores gradient boosting for supervised machine learning classification.
+
+Key concepts include:
+
+- Gradient boosting
+- XGBoost classification
+- Data preprocessing
+- Categorical encoding
+- Feature scaling
+- Train-test splitting
+- Class imbalance handling
+- Hyperparameter tuning
+- RandomizedSearchCV
+- Model evaluation
+- Feature importance
+- Classification metrics
+
+The notebook demonstrates an end-to-end machine learning workflow from data preprocessing and exploratory analysis to model training, tuning, and evaluation.
+
+---
+
+## Artificial Neural Network
+
+The ANN notebook demonstrates the use of an Artificial Neural Network for diabetes classification using TensorFlow and Keras.
+
+Key concepts include:
+
+- Artificial Neural Networks
+- Input and output layers
+- Hidden layers
+- Activation functions
+- Forward propagation
+- Model training
+- Validation
+- Loss and accuracy
+- Training and validation curves
+- Model evaluation
+- Prediction
+- Model saving
 
 ---
 
