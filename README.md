@@ -10,14 +10,18 @@ This repository was created as a practical learning space to understand how diff
 
 The repository currently covers:
 
-| Topic                     | Notebook              |
-| ------------------------- | --------------------- |
-| Exploratory Data Analysis | `eda.ipynb`           |
-| K-Nearest Neighbors       | `knn.ipynb`           |
-| K-Means Clustering        | `kmeans.ipynb`        |
-| Decision Trees            | `decisiontrees.ipynb` |
-| Random Forest             | `RandomForest.ipynb`  |
-| Naive Bayes               | `Naivebayes.ipynb`    |
+| Topic | Notebook |
+|---|---|
+| Exploratory Data Analysis | `eda.ipynb` |
+| K-Nearest Neighbors | `knn.ipynb` |
+| K-Means Clustering | `kmeans.ipynb` |
+| Decision Trees | `decisiontrees.ipynb` |
+| Random Forest Regression | `RandomForest.ipynb` |
+| Random Forest Classification | `RandomForest_Classifier.ipynb` |
+| Naive Bayes | `Naivebayes.ipynb` |
+| Support Vector Machine | `SVM_Classifier.ipynb` |
+| XGBoost | `XGBoost.ipynb` |
+| Artificial Neural Network | `ANN_Diabetes_Classifier.ipynb` |
 
 ---
 
